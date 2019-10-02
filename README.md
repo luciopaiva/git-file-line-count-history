@@ -3,6 +3,8 @@
 
 This is a simple script to track how the size of a specific file in a git repository changed across time. Useful to track big files as their logic gets extracted into smaller ones.
 
+Beware this is not counting [SLOCs](https://en.wikipedia.org/wiki/Source_lines_of_code), but just raw line breaks. However, this should be enough to give you rough but good estimates of file size as it progresses through time.
+
 ## Requirements
 
 - bash
