@@ -6,7 +6,7 @@ This is a simple script to track how the size of a specific file in a git reposi
 ## Requirements
 
 - bash
-- Node.js (tested with v12.10.0, but should work with the Node.js you have installed, whatever it is)
+- Node.js (tested with v12.11.0, but should work with the Node.js you have installed, whatever it is)
 
 ## How to run
 
